@@ -1,0 +1,136 @@
+{
+  "Rooms": [
+    {
+      "Teams": [
+        {
+          "Name": "TeamTiger",
+          "Members": [
+            "Player1",
+            "Player2"
+          ],
+          "PlayingPiece": 0,
+          "NetWorth": 300000
+        },
+        {
+          "Name": "TeamRabbit",
+          "Members": [
+            "PlayerC",
+            "PlayerB"
+          ],
+          "PlayingPiece": 4,
+          "NetWorth": 2000
+        },
+        {
+          "Name": "TeamElephant",
+          "Members": [
+            "PlayerX",
+            "PlayerY",
+            "PlayerZ"
+          ],
+          "PlayingPiece": 4,
+          "NetWorth": 2000
+        },
+        {
+          "Name": "TeamCastle",
+          "Members": [
+            "PlayerFA"
+          ],
+          "PlayingPiece": 6,
+          "NetWorth": 5000000
+        }
+      ],
+      "GameTime": 1600000,
+      "RoundTime": 248000,
+      "RoundRemainingTime": 59000,
+      "BoardType": "classic"
+    },
+    {
+      "Teams": [
+        {
+          "Name": "TeamTiger",
+          "Members": [
+            "Player1",
+            "Player2"
+          ],
+          "PlayingPiece": 0,
+          "NetWorth": 300000
+        },
+        {
+          "Name": "TeamRabbit",
+          "Members": [
+            "PlayerC",
+            "PlayerB"
+          ],
+          "PlayingPiece": 4,
+          "NetWorth": 2000
+        },
+        {
+          "Name": "TeamElephant",
+          "Members": [
+            "PlayerX",
+            "PlayerY",
+            "PlayerZ"
+          ],
+          "PlayingPiece": 4,
+          "NetWorth": 2000
+        },
+        {
+          "Name": "TeamCastle",
+          "Members": [
+            "PlayerFA"
+          ],
+          "PlayingPiece": 6,
+          "NetWorth": 5000000
+        }
+      ],
+      "GameTime": 1600000,
+      "RoundTime": 248000,
+      "RoundRemainingTime": 59000,
+      "BoardType": "luxury"
+    },
+    {
+      "Teams": [
+        {
+          "Name": "TeamTiger",
+          "Members": [
+            "Player1",
+            "Player2"
+          ],
+          "PlayingPiece": 0,
+          "NetWorth": 300000
+        },
+        {
+          "Name": "TeamRabbit",
+          "Members": [
+            "PlayerC",
+            "PlayerB"
+          ],
+          "PlayingPiece": 4,
+          "NetWorth": 2000
+        },
+        {
+          "Name": "TeamElephant",
+          "Members": [
+            "PlayerX",
+            "PlayerY",
+            "PlayerZ"
+          ],
+          "PlayingPiece": 4,
+          "NetWorth": 2000
+        },
+        {
+          "Name": "TeamCastle",
+          "Members": [
+            "PlayerFA"
+          ],
+          "PlayingPiece": 6,
+          "NetWorth": 5000000
+        }
+      ],
+      "GameTime": 1600000,
+      "RoundTime": 248000,
+      "RoundRemainingTime": 59000,
+      "BoardType": "contemporary"
+    }
+  ]
+}

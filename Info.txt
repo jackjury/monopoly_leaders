@@ -1,0 +1,17 @@
+
+PlayingPiece: from 0 to 7
+GameTime: Time since the game started in milliseconds
+RoundTime: Time since the current round started in milliseconds
+RoundRemainingTime: remaining time to finish current round in milliseconds
+The Teams' array is ordered by net worth descendant
+NetWorth = Balance + Owned Properties value + Improvements
+
+Playing pieces
+0 = Race car
+1 = Boot
+2 = Scottie Dog
+3 = Rubber Ducky
+4 = Iron
+5 = Thimble
+6 = T-Rex
+7 = Battleship
